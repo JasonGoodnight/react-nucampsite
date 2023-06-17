@@ -1,0 +1,75 @@
+<link ="css/cafe-styles.css" />
+body {
+    background: #b4eeca;
+    font-family: Tahoma, Arial, sans-serif;
+}
+
+h1 {
+    color: #0411fa;
+    font: 32px Garamond, Helvetica, serif;
+    text-align: center;
+    border-width: 80%;
+    border-style: solid;
+}
+
+h2 {
+    text-align: center;
+    border-width: 50%;
+    border-style: groove;
+    color: crimson;
+}
+
+table {
+    width: 20%;
+    text-align: center;
+    background-color: hsl(178, 100%, 50%);
+    border-style: dotted;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form {
+    text-align: center;
+}
+
+thead {
+    text-align: center;
+}
+
+label {
+    display: block;
+}
+
+#submit-btn {
+    display: block;
+    margin-left: 48%;
+    background-color: darkred;
+}
+
+address, p {
+    text-align: center;
+}
+
+#Coffee {
+    color: rgb(210, 102, 0);
+}
+#Tea {
+    color: rgb(8, 228, 8);
+}
+
+#Blueberry-Pancakes {
+    color: rgb(0, 4, 244);
+}
+
+#Donut {
+    color: rgb(243, 60, 91);
+}
+
+#Chicken-Waffles {
+    color: orangered;
+}
+
+#Submit-Your-Review {
+    border-width: 50%;
+    border: dashed aqua;
+}
